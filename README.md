@@ -8,7 +8,7 @@
 * **AI 风险分析**：基于 Function Calling 深度对接大模型 API，自动生成网络拓扑变更与安全风险评估报告。
 * **CLI 交互**：提供直观的终端菜单，支持一键式本地审计和与AI使用自然语言协同分析。
 
-## 🛠️ 项目结构
+## 项目结构
 ```text
 ├── asset_processor.py   # 设备信息抓取解析与Diff比对
 ├── AI_Call.py           # 大模型Function Calling
