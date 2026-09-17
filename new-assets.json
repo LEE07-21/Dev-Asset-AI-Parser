@@ -1,0 +1,83 @@
+[
+  {
+    "device_id": "DEV-1001",
+    "hostname": "Core-SW-01",
+    "ip": "192.168.1.1",
+    "vendor": "Huawei",
+    "model": "CE12800",
+    "status": "online",
+    "location": "Datacenter-A"
+  },
+  {
+    "device_id": "DEV-1002",
+    "hostname": "Core-SW-02",
+    "ip": "192.168.1.2",
+    "vendor": "Huawei",
+    "model": "CE12800",
+    "status": "offline",
+    "location": "Datacenter-A"
+  },
+  {
+    "device_id": "DEV-1003",
+    "hostname": "Core-SW-03",
+    "ip": "192.168.1.3",
+    "vendor": "Huawei",
+    "model": "CE12800",
+    "status": "online",
+    "location": "Datacenter-A"
+  },
+  {
+    "device_id": "DEV-2002",
+    "hostname": "Edge-RT-02",
+    "ip": "10.0.0.2",
+    "vendor": "Cisco",
+    "model": "ISR4451",
+    "status": "offline",
+    "location": "Datacenter-B"
+  },
+  {
+    "device_id": "DEV-3001",
+    "hostname": "FW-Core-01",
+    "ip": "172.16.0.1",
+    "vendor": "Fortinet",
+    "model": "FG-500E",
+    "status": "online",
+    "location": "Datacenter-A"
+  },
+  {
+    "device_id": "DEV-4002",
+    "hostname": "Access-SW-02",
+    "ip": "192.168.10.2",
+    "vendor": "H3C",
+    "model": "S5130",
+    "status": "online",
+    "location": "Office-Building-2F"
+  },
+  {
+    "device_id": "DEV-4003",
+    "hostname": "Access-SW-03",
+    "ip": "192.168.10.3",
+    "vendor": "H3C",
+    "model": "S5130",
+    "status": "online",
+    "location": "Office-Building-3F"
+  },
+  {
+    "device_id": "DEV-4003",
+    "hostname": "Access-SW-03",
+    "ip": "192.168.10.3",
+    "vendor": "H3C",
+    "model": "S5130",
+    "status": "online",
+    "location": "Office-Building-3F"
+  },
+  {
+    "device_id": "DEV-5001",
+    "hostname": "WLC-Core-01",
+    "ip": "192.168.50.1",
+    "vendor": "Cisco",
+    "model": "CW9800",
+    "status": "online",
+    "location": "Datacenter-A"
+  }
+]
